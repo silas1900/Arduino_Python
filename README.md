@@ -2,7 +2,6 @@
 # **Interface gráfica para Arduino em Python utilizando a biblioteca PySimpleGUI**
 #para acionar saídas digitais logar e deslogar LEDs
 <br/>
-![Badge em ]
 <br/>
 <br/>
 <img src="arduino.png">
